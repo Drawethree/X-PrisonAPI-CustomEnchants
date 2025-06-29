@@ -1,0 +1,23 @@
+{
+  "class": "dev.drawethree.xprison.api.test.InvisibilityEnchant",
+  "id": 101,
+  "rawName": "invisibility",
+  "name": "&fInvisiblity",
+  "enabled": true,
+  "increaseCostBy": 350,
+  "maxLevel": 1,
+  "initialCost": 10000,
+  "refund": {
+    "enabled": true,
+    "guiSlot": 50,
+    "percentage": 50.0
+  },
+  "gui": {
+    "name": "&fInvisiblity",
+    "material": "FEATHER",
+    "slot": 50,
+    "description": [
+      "&7&o(( You will be invisible while holding pickaxe! ))"
+    ]
+  }
+}

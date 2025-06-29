@@ -1,0 +1,6 @@
+name: X-PrisonAPITest
+version: '1.0-SNAPSHOT'
+main: dev.drawethree.xprison.api.test.XPrisonAPITest
+api-version: '1.13'
+depend:
+  - X-Prison

@@ -1,0 +1,24 @@
+{
+  "class": "dev.drawethree.xprison.api.test.DiamondGiverEnchant",
+  "id": 100,
+  "rawName": "diamondgiver",
+  "name": "&bDiamond Giver",
+  "enabled": true,
+  "increaseCostBy": 350,
+  "baseChance": 20,
+  "maxLevel": 5,
+  "initialCost": 10000,
+  "refund": {
+    "enabled": true,
+    "guiSlot": 51,
+    "percentage": 50.0
+  },
+  "gui": {
+    "name": "&bDiamond Giver",
+    "material": "DIAMOND",
+    "slot": 51,
+    "description": [
+      "&7&o(( You will be invisible while holding pickaxe! ))"
+    ]
+  }
+}
