@@ -10,13 +10,13 @@
   "initialCost": 10000,
   "refund": {
     "enabled": true,
-    "guiSlot": 51,
+    "guiSlot": 52,
     "percentage": 50.0
   },
   "gui": {
     "name": "&bDiamond Giver",
     "material": "DIAMOND",
-    "slot": 51,
+    "slot": 52,
     "description": [
       "&7&o(( You will be invisible while holding pickaxe! ))"
     ]

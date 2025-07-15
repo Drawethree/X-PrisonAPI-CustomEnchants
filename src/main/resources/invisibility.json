@@ -9,13 +9,13 @@
   "initialCost": 10000,
   "refund": {
     "enabled": true,
-    "guiSlot": 50,
+    "guiSlot": 51,
     "percentage": 50.0
   },
   "gui": {
     "name": "&fInvisiblity",
     "material": "FEATHER",
-    "slot": 50,
+    "slot": 51,
     "description": [
       "&7&o(( You will be invisible while holding pickaxe! ))"
     ]
